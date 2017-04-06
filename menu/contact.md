@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [file a GitHub issue](https://github.com/MrRastayoung/MrRastayoung/issues/new)
+Si tienes problemas no dudes en contactar con migo[file a GitHub issue](https://github.com/MrRastayoung/MrRastayoung/issues/new)
