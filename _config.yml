@@ -18,7 +18,7 @@ navigation:
 - title: About
   url: /about
 - title: Entradas
-  url: /blog
+  url: /writing
 - title: Contact
   url: /contact
 - title: Raspberry
