@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Categorias y Tags
 ---
 
 {% assign hasSimilar = '' %}
