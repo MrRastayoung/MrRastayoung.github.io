@@ -23,6 +23,8 @@ navigation:
   url: /contact
 - title: Raspberry
   url: /raspberry
+- title: Categories/tags
+  url: /cat_tag
 
 paginate:            5
 disqus:              #"your-disqus"
