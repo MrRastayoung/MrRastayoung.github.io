@@ -14,12 +14,16 @@ author:
   github:            "MrRastayoung"
   facebook:          "altairisx"
   linkedin:          "altairisx"
+  docker:            "altairisx"
+  
 navigation:
 - title: About
   url: /about
+- title: Langrage
+  url: /langrage
 - title: Entradas
   url: /blog
-- title: Contact
+- title: Contacto
   url: /contact
 - title: Raspberry
   url: /raspberry
