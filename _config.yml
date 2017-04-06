@@ -17,8 +17,8 @@ author:
 navigation:
 - title: About
   url: /about
-- title: Writing
-  url: /writing
+- title: Entradas
+  url: /blog
 - title: Contact
   url: /contact
 - title: Raspberry
