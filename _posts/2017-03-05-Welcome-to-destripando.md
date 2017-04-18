@@ -1,32 +1,17 @@
 ---
 layout: post
-title: "Welcome to Destripando Linux"
+title: "Welcome to Destripando Raspberry"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: mountains.jpg
-  teaser: mountains-teaser.jpg
-  credit: Death to Stock Photo
+  feature: destri.png
+  teaser: destri.png
+  credit: Destripando Raspberry
   creditlink: ""
 ---
 
-Destripando linux is un blog destinado a subir proyectos personales relacionados con la informatica y la tecnologia.
+Destripando Raspberry is un blog destinado a subir proyectos personales relacionados con la informatica y la tecnologia.
 
-### Getting Started
-
-[Administrador]({{ site.github.url }}{% post_url 2015-12-12-Installation-Guide %}): this post will help you get started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Using Lagrange
-
-[Working With Jekyll]({{ site.github.url }}{% post_url 2015-11-11-Working-With-Jekyll %}): this post will acquaint you with how to use Jekyll to create your own site.
-
-[Working With Lagrange]({{ site.github.url }}{% post_url 2015-10-10-Working-With-Lagrange %}): this post will acquaint you with how to use Jekyll to create your own site.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2015-09-09-Text-Formatting %})
-
-[Math and Code Formatting]({{ site.github.url }}{% post_url 2015-08-08-Math-and-Code-Formatting %})
 
 ### Questions?
 
