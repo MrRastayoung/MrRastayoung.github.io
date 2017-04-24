@@ -10,7 +10,7 @@ image:
   creditlink: ""
 ---
 
-# 25 cosas divertidas que hacer con Raspberry 
+## Diviertete con Raspberry 
 
 [Having Fun with Raspberry](https://www.cnet.com/how-to/25-fun-things-to-do-with-a-raspberry-pi/)
 
