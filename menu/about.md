@@ -5,7 +5,7 @@ title: About
 
 Destripando la Raspberry es un blog dedicado a Raspberry.
 
-> En el cual podremos encontrar:
+## En el cual podremos encontrar:
 * Imagenes pra raspberry:
 * Herramientas 
 * Proyectos
