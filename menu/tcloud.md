@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TagCloud
+title: Cloud Tag
 ---
 
 <div>
