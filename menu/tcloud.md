@@ -4,7 +4,7 @@ title: TagCloud
 ---
 
 <div>
-  {% include tag-cloud.html %}
+  {% include cloud-tag.html %}
   
   {% assign sorted-tags = site.tags | sort %}
   
