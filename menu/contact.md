@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Contact
-image:
-  feature: git_logo.jpg
-  teaser: git_logo.jpg
-  credit: contact
-  creditlink: ""
 ---
 
 Si tienes problemas no dudes en contactar con el equipo de destripando Raspberry 
