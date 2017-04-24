@@ -10,7 +10,7 @@ Si tienes problemas no dudes en contactar con el equipo de destripando Raspberry
   {% endif %}
     
   GITHUB:{% if site.author.github %}
-  <a href="https://github.com/{{ site.author.github }}"><i class="fa fa-github" aria-hidden="true" target="_blank"></i></a>
+  <a href="https://github.com/{{ site.author.gitissues }}"><i class="fa fa-github" aria-hidden="true" target="_blank"></i></a>
   {% endif %}
 
 
