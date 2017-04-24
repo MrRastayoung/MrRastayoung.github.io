@@ -4,8 +4,8 @@ title: "Raspberry zero"
 categories: journal
 tags: [raspberry,hardware]
 image:
-  feature: raspberry_zero.jpg
-  teaser: raspberry_zero2.jpg
+  feature: Raspberry-pi.jpg
+  teaser: Raspberry-pi.jpg
   credit: Raspberry zero 
   creditlink: ""
 ---
