@@ -16,4 +16,4 @@ Si tienes problemas no dudes en contactar con el equipo de destripando Raspberry
 
 ![contat_withme](../images/git_logo.jpg)
 
-[file a GitHub issue](https://github.com/MrRastayoung/MrRastayoung.github.io/issues/new)
+
