@@ -4,6 +4,7 @@ title: Contact
 ---
 
 Si tienes problemas no dudes en contactar con el equipo de destripando Raspberry.
+
   MAIL:{% if site.author.email %}
   <a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope" aria-hidden="true" target="_blank"></i></a>
   {% endif %}
