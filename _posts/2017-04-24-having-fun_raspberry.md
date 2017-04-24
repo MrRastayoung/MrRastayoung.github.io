@@ -12,6 +12,7 @@ image:
 
 # 25 fun things to do with a Raspberry Pi
 [Having Fun with Raspberry](https://www.cnet.com/how-to/25-fun-things-to-do-with-a-raspberry-pi/)
+
 ``Raspberry zero is a Small Mother Board to learn a lot of thinks``
 
 
