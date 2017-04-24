@@ -1,6 +1,6 @@
 # Destripando la Raspberry y otros sistemas
 
-``A minimalist blog using langrade jekyll theme for running a personal blog.`` 
+``A minimalist blog using [langrade](https://github.com/LeNPaul/Lagrange) [jekyll](https://jekyllrb.com/) theme for running a personal blog.`` 
 
 ## Finalidad de este bloc
 
