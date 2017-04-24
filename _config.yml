@@ -41,6 +41,9 @@ navigation:
 - title: About
   url: /about
 
+- title: Cloud-tag
+  url: /tcloud
+
 paginate:            5
 disqus:              #"your-disqus"
 
