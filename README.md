@@ -2,11 +2,10 @@
 
 ``A minimalist blog using langrade jekyll theme for running a personal blog.`` 
 
-## Finalidad de este blog
+##Finalidad de este bloc
 
-> La finalidad de este blog es brindar al usuario que empieza con raspberry las herramientas para poderse iniciar en el mundo de "Pi".
+> La finalidad de este bloc es brindar al usuario que empieza con raspberry las herramientas para poderse iniciar en el mundo de "Pi".
 
-> En el blog tambien encontraremos noticias de interes propio, hacking, raspberry, sistemas, servicios.
-> Pero esto serà una minima parte para que el usuario que visite el blog este un poco al día de las noticas tecnológicas de ultima hora.
+> En el bloc también encontraremos noticias de interés propio, hacking, raspberry, sistemas, servicios. Pero esto sera una mínima parte para que el usuario que visite el bloc este un poco al día de las noticias tecnológicas de ultima hora.
 
 
