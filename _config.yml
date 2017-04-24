@@ -10,11 +10,12 @@ author:
   name:              "Altair"
   email:             "altair.trabajo@gmail.com"
   twitter:           "altairisx"
-  instagram:         "altairisx"
+  #instagram:         "altairisx"
   github:            "MrRastayoung"
+  gitissues:         "MrRastayoung/MrRastayoung.github.io/issues/new"
   facebook:          "altairisx"
-  linkedin:          "altairisx"
-  docker:            "altairisx"
+  #linkedin:          "altairisx"
+  #docker:            "altairisx"
   awesome_git:		 "thibmaek/awesome-raspberry-pi"
   
 navigation:
