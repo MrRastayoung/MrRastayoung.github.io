@@ -24,6 +24,3 @@ image:
 * Composite video and reset headers
 * CSI camera connector (v1.3 only)
 
-
-### Using Raspberry
-[25 fun things to do with a Raspberry Pi](https://www.cnet.com/how-to/25-fun-things-to-do-with-a-raspberry-pi/)
