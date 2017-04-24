@@ -10,9 +10,8 @@ image:
   creditlink: ""
 ---
 
-Raspberry zero is a Small Mother Board to learn a lot of thinks
-
 ### Getting Started
+``Raspberry zero is a Small Mother Board to learn a lot of thinks``
 
 [Start with raspberry zero](http://www.makeuseof.com/tag/getting-started-raspberry-pi-zero/)
 

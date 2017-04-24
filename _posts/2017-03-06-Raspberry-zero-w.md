@@ -10,11 +10,10 @@ image:
   creditlink: ""
 ---
 
+## Getting Started
 ``Raspberry zero is a Small Mother Board to learn a lot of thinks``
 
-## Getting Started
-
-###The Raspberry Pi Zero is half the size of a Model A+, with twice the utility. A tiny Raspberry Pi that’s affordable enough for any project!
+### The Raspberry Pi Zero is half the size of a Model A+, with twice the utility. A tiny Raspberry Pi that’s affordable enough for any project!
 
 * 1GHz, Single-core CPU
 * 512MB RAM
