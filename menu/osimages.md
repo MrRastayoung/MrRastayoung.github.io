@@ -3,7 +3,7 @@ layout: page
 title: OsImages
 ---
 
-## Imagenes disponibles para raspberry:
+Imagenes disponibles para raspberry:
 
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
 - [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - New Out Of the Box Software, an easy OS installer for beginners.

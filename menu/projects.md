@@ -2,7 +2,8 @@
 layout: page
 title: Projects
 ---
-## Projectos hechos con raspberry
+
+Projectos hechos con raspberry
 
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
 - [Power Sniffing Strip](https://gnurds.com/index.php/2012/10/02/raspberry-pi-power-strip/) - Enclosure in a power strip, sniffing network data.
