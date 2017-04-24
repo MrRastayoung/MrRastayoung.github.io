@@ -30,10 +30,10 @@ navigation:
 - title: Resources
   url: /resources
 
-- title: Entradas
+- title: Entries
   url: /blog
   
-- title: Contacto
+- title: Contact:
   url: /contact
  
 - title: About
