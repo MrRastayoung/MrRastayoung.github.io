@@ -2,6 +2,10 @@
 layout: page
 title: Contact
 image:
+  feature: MDO_AFG.JPG
+  teaser: MDO_AFG.JPG
+  credit: Raspberry zero 
+  creditlink: ""
 ---
 
 Si tienes problemas no dudes en contactar con el equipo de destripando Raspberry 
