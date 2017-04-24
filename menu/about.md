@@ -10,8 +10,8 @@ se están poniendo de acuerdo con los desarrolladores web para llevar a cavo una
 
 
 ## En el cual podremos encontrar:
-* Imágenes para raspberry:
-* Herramientas 
-* Proyectos
-* Recursos
+* [Imágenes para raspberry "SO"](osimages.md)
+* [Herramientas](tools.md)
+* [Proyectos](projects.md)
+* [Recursos](resources.md)
 * Noticias tecnológicas (raspberry, hacking, sistemas )
