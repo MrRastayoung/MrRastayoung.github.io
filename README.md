@@ -10,8 +10,10 @@
 
 > No dude en echar un vistazo cualquier mejora será bienvenida.
 
-`` Author: Altair ``
-`` Colaboradores: Equipo de traductores de Fsociety y desarrolladoras web las Queens ``
-`` Fecha: en una hora de un día de Marzo del 2017``
+	Author: Altair 
 
-`` No tome muy enserio los comentarios que pueda encontrar en la web, tenemos un equipo un tanto peculiar``
+	Colaboradores: Equipo de traductores de Fsociety y desarrolladoras web las Queens 
+
+	Fecha: en una hora de un día de Marzo del 2017
+
+	No tome muy enserio los comentarios que pueda encontrar en la web, tenemos un equipo un tanto peculiar
